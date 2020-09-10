@@ -11,7 +11,8 @@ A desktop version of [this](https://ddw-theme-creator.vercel.app/) site
 ## How to use
 - Install [node.js](https://nodejs.org/en/download/current/)
 - [Download](https://github.com/GreenAndBlueGaming/wdd-desktop-theme-creator/archive/master.zip) this repository
-- In the node.js cmd do `npm install && npm start`
+- If the first run `install.bat`
+- Whenever you want to start it run `start.bat`
 
 ## How it work
 This is a simple electron app with a `meta` redirect in [HTML](https://en.wikipedia.org/wiki/HTML)
