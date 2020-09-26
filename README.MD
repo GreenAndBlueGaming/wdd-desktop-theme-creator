@@ -1,6 +1,4 @@
 # .wdd Desktop Theme Creator
-![fuck it badge](img/fuck-it-ship-it.svg) ![nothing badge](img/img_shields_io-Nothing-Still%20Nothing-brightgreen.svg)
-
 A desktop version of [this](https://ddw-theme-creator.vercel.app/) site
 
 ## Table of content
